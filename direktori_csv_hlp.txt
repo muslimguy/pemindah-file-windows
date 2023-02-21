@@ -1,0 +1,35 @@
+V:\MELANI\februari 2023\01 feb 2023\hlp\20230201_hlp cell-b_cell-i_cell-p.csv
+V:\MELANI\februari 2023\01 feb 2023\hlp\20230201_hlp cell-p1218 mlm.csv
+V:\MELANI\februari 2023\03 feb 2023\hlp\20230203_hlp cell-i_cell-p.csv
+V:\MELANI\februari 2023\04 feb 2023\hlp\20230204_hlp cell-1211d.csv
+V:\MELANI\februari 2023\04 feb 2023\hlp\20230204_hlp cell-i finish.csv
+V:\MELANI\februari 2023\05 feb 2023\hlp\20230204_dstck_cell-d.csv
+V:\MELANI\februari 2023\05 feb 2023\hlp\20230205_stck_cell-p.csv
+V:\MELANI\februari 2023\06 feb 2023\hlp\20230206_stck_cell-p_dstck-cell-b.csv
+V:\MELANI\februari 2023\07 feb 2023\hlp\20230207_dstck_cell-b_sts_stck_cell-b.csv
+V:\MELANI\februari 2023\07 feb 2023\hlp\20230207_stck_cell-d.csv
+V:\MELANI\februari 2023\07 feb 2023\mlm\20230207_hlp cell-b mlm.csv
+V:\MELANI\februari 2023\08 feb 2023\hlp\20230208_base_dstck_cell-b.csv
+V:\MELANI\februari 2023\08 feb 2023\hlp\20230208_stck_cell-b_stck_cell-p.csv
+V:\MELANI\februari 2023\09 feb 2023\hlp\20230209_stck_cell-b.csv
+V:\MELANI\februari 2023\09 feb 2023\hlp\20230209_stck_cell-d.csv
+V:\MELANI\februari 2023\10 feb 2023\hlp\20230210_stck_cell-b_batch2_mlm.csv
+V:\MELANI\februari 2023\10 feb 2023\hlp\20230210_stck_cell-b_stck_cell-d_batch1.csv
+V:\MELANI\februari 2023\10 feb 2023\hlp\20230210_stck_cell-p_stck_cell-b.csv
+V:\MELANI\februari 2023\11 feb 2023\hlp\20230211_hlp cell-b mlm.csv
+V:\MELANI\februari 2023\11 feb 2023\hlp\20230211_hlp stck cell-g.csv
+V:\MELANI\februari 2023\12 feb 2023\hlp\20230212_dstck_cell-e.csv
+V:\MELANI\februari 2023\12 feb 2023\hlp\20230212_dstck_cell-e_2.csv
+V:\MELANI\februari 2023\12 feb 2023\hlp\20230213_hlp cell-e mlm.csv
+V:\MELANI\februari 2023\13 feb 2023\hlp\20230213_stck_cell-g_cell-b_dstck_cell-c.csv
+V:\MELANI\februari 2023\14 feb 2023\hlp\20230214_stck_cell-b.csv
+V:\MELANI\februari 2023\15 feb 2023\HLP\20230215_stck_cell-b.csv
+V:\MELANI\februari 2023\16 feb 2023\hlp\20230216_dstck_cell-k..csv
+V:\MELANI\februari 2023\16 feb 2023\hlp\20230216_dstck_cell-k_stck_cell-g.csv
+V:\MELANI\februari 2023\18 feb 2023\hlp\20230218_dstck-cell-c_stck_cell-e_dstck_cell-k_.csv
+V:\MELANI\februari 2023\18 feb 2023\hlp\20230218_stck_cell-e_close.csv
+V:\MELANI\februari 2023\19 feb 2023\hlp\20230219_stck_cell-c_stck_cell-g.csv
+V:\MELANI\februari 2023\20 feb 2023\hlp\20230220_dstck_cell-c_cell-l_stck_cell-k_cell-g.csv
+V:\MELANI\februari 2023\21 feb 2023\hlp\20230221_dstck_cell-l.csv
+V:\MELANI\februari 2023\21 feb 2023\hlp\20230221_stck_cell-g.csv
+V:\MELANI\februari 2023\21 feb 2023\hlp\20230221_stck_cell-k_dstck_cell-c.csv
